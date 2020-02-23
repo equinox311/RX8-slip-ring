@@ -21,3 +21,17 @@ Feel free to donate if you like what you see :)
 - Epoxy to attach brass ring to the ring guide
 
 If you would like to have printed parts created for you, please send me a message over at: www.facebook.com/GROMClusters and we can work something out depending on printer useage time and cost.
+
+# Installation
+1. Remove the factory clock spring, this should probably already be done.
+2. Take Brass_Ring_Guide.STL and put epoxy on the mating surface of Brass_Ring.STL
+3. Place Brass_Ring.STL inside the guides, it should be a bit tight and let the epoxy cure
+4. Solder some wire to the back of the brass ring, make sure to offset it from where the bottom spring will contact
+5. Install Mazda_Slip_Ring.STL in the same location as the old clock spring.
+6. Put some general purpose grease around the spring locators and inside and outside of the races
+7. Install the springs
+8. Install Brass_Ring_Guide.STL by aligning the holes of the ring with the springs, some light sanding may be needed depending on the tolorences of the brass ring. Brass_Ring_Guide.STL should be able to slide in and out of the race with ease
+9. Use a small coating of dielectric grease on the contact surface of Brass_Ring.STL to the NRG Short Hub
+10. Install the NRG Short Hub
+11. Connect the wire to the 12v supply for the horn
+12. Install your aftermarket steering wheel and go BEEP, BEEP!
