@@ -20,4 +20,4 @@ Feel free to donate if you like what you see :)
 - General purpose grease for the ring guide
 - Epoxy to attach brass ring to the ring guide
 
-If you would like to have printed parts created for you, please send me a message over at: www.facebook.com/GROMClusters and we can work something out. 
+If you would like to have printed parts created for you, please send me a message over at: www.facebook.com/GROMClusters and we can work something out depending on printer useage time and cost.
