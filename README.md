@@ -10,4 +10,11 @@ These files are for personal use and will not be licensed to anyone looking to s
 
 
 # BOM
--
+- 1x Mazda_Slip_Ring.STL 3D printed, ABS is suggested
+- 1x Brass_Ring_Guide.STL 3D Printed, ABS is suggested
+- 1x Brass_Ring.STL machined from brass or copper, brass is suggested OD = 80mm, ID = 64mm
+- 4x 6.5x10mm springs
+- 1x wire soldered to the brass ring
+- Dielectric grease between the slip ring and wheel hub
+- General purpose grease for the ring guide
+- Epoxy to attach brass ring to the ring guide
