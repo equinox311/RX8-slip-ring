@@ -6,6 +6,8 @@ This is a 3D printed slip ring for use in place of a clock spring for use with a
 
 These files are for personal use and will not be licensed to anyone looking to sell or profit on.
 
+Feel free to donate if you like what you see :) 
+
 <img src="https://i.imgur.com/uMZBzmw.png" width="300" height="400">    <img src="https://i.imgur.com/bZqwtLo.jpg" width="420" height="300">
 
 
