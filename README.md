@@ -10,7 +10,7 @@ Feel free to donate if you like what you see :)
 
 <img src="https://i.imgur.com/uMZBzmw.png" width="300" height="400">    <img src="https://i.imgur.com/bZqwtLo.jpg" width="420" height="300">
 
-# BOM
+# Materials Needed
 - 1x Mazda_Slip_Ring.STL 3D printed, ABS is suggested
 - 1x Brass_Ring_Guide.STL 3D Printed, ABS is suggested
 - 1x Brass_Ring.STL, machined from brass or copper, brass is suggested OD = 80mm, ID = 64mm (Check out http://realitymachine.us/ for machining quotes)
